@@ -7,5 +7,5 @@ THIS FIXES ALL OF IT!!(native Touch Bar-brightness scrolling supported)
 it overrides brightness cap to force output. 
 it works only in macOS. 
 Windows and Linux has its own driver so there's no need for this app.
-![description](https://github.com/Entity534612/Backlight-Fix/blob/main/Screenshot%202026-09-24%20at%2017.33.29.png?raw=true)
+![description](https://github.com/Entity534612/Backlight-Fix/blob/main/Screenshot%202026-09-25%20at%2015.25.19.png?raw=true)
 
