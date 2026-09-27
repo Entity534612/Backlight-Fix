@@ -1,5 +1,5 @@
 Bypass the T2 non-genuine hardware restrictions!!
-
+https://github.com/Entity534612/Backlight-Fix
 
 This fixes a2159 screen brightness cap when using different model display.
 and because of the lack ALS support, keyboard backlight will not work.
